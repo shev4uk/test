@@ -1,0 +1,15 @@
+.box {
+    /* position: absolute; */
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+td {
+    text-align: center;
+    padding: 10px 15px;
+    border: 1px solid;
+}
+td.selected {
+    background-color: darkgrey;
+}
